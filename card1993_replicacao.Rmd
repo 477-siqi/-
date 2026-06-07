@@ -128,7 +128,9 @@ escolhas educacionais — uma variável que afete a escolaridade, mas não os sa
 Card (1993) propõe usar a **proximidade geográfica a faculdades de 4 anos** como variável
 instrumental para a escolaridade. A lógica é direta: estudantes que crescem em áreas sem uma
 faculdade próxima enfrentam um custo maior para frequentar o ensino superior, pois perdem a
-opção de morar com os pais durante a graduação. Ademais, a distância da faculdade não deveria afetar o salário de um adulto exceto através da escolaridade que ela permitiu obter, ou seja, a variável afeta o salário somente via escoralidade.
+opção de morar com os pais durante a graduação. Ademais, a distância da faculdade não deveria afetar o 
+salário de um adulto exceto através da escolaridade que ela permitiu obter, ou seja, a variável afeta o 
+salário somente via escoralidade.
 
 
 ## Heterogeneidade do efeito e instrumento de interação
